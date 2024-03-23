@@ -7,4 +7,4 @@
 - Plots a histogram of the wavelet coefficients to visualize their distribution.
 - Applies the inverse Haar wavelet transform to convert the data back to its original form.
 
-- It does not automatically compensate for the sample rate yet, it assumes 16-bit
+- It does not automatically compensate for the sample rate and bit depth yet, it assumes 44.1khz, 16-bit.
